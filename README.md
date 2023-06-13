@@ -1,7 +1,6 @@
 # Computadores-II-USAL
 
 _Ejercicios realizados durante las prácticas de Computadores II_
-_(En proceso de revisión de los últimos ejercicios)_
 
 
 ## Assembly 6809
